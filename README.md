@@ -1,10 +1,10 @@
 # InitGIT-TP1
 projet collaboratif pour apprendre Git
 
-Diyan Sathsara Hetti Arachchcige / Diyantre / Mainteneur
+Diyan Sathsara Hetti Arachchcige (Diyantre) : Mainteneur
 
-Darragh Boylan / VisitingGoat / Owner
+Darragh Boylan (VisitingGoat) : Owner
 
-Isabelle Ye / TheM00nCake / Dev
+Isabelle Ye (TheM00nCake) : Dev
 
-Matilde Dos Santos Martins / Dev
+Matilde Dos Santos Martins (matilde-dsm) Dev
